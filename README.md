@@ -1,4 +1,4 @@
-# House Price Prediction Using Multiple Techniques
+# House Price Prediction Using Multiple Regression Techniques
 
 ## Overview
 This project predicts house prices using various machine learning regression techniques. 
