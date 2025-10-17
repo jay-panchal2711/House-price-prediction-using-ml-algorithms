@@ -75,4 +75,7 @@ proportional effects on pricing.
 
 ## Author
 Developed by Jay Panchal
+Email - panchaljay2711@gmail.com
+LinkedIn - https://www.linkedin.com/in/jay-panchal-396443176
+Github - https://github.com/jay-panchal2711
 '''
